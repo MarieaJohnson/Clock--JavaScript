@@ -1,2 +1,2 @@
 # Clock--JavaScript
-Simple Clock using JavaScript
+Lesson 2 - Simple Clock using JavaScript
